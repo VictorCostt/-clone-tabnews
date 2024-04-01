@@ -1,5 +1,5 @@
 function Home() {
-    return <h1>eu vou me tornar senior em 5 anos e começar a ganhar em dolar</h1>
+    return <h1>eu estou super animado com meu futuro, pois sei que irei conseguir todos os meus sonhos, como minha porsche antes dos 27 anos</h1>
 }
  
 export  default Home; 
